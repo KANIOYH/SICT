@@ -1,13 +1,4 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-'''
-@文件    :hamming.py\n
-@说明    :基于hamming(7,4)编码模块\n
-@时间    :2022/03/12 21:57:52\n
-@作者    : SICT 制作委员会\n
-@版本    :1.0\n
-'''
-
+#外部引入
 
 import numpy as np
  
